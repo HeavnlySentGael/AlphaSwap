@@ -1,0 +1,30 @@
+# Build artifacts
+**/build/
+
+# Lock files
+**/Move.lock
+
+# Dependency directories
+target/
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.swp
+
+# Downloaded files
+rustup-init.exe
+sui-latest.exe
+
+# Qodo files (if not needed)
+.qodo/
